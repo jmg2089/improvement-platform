@@ -1,4 +1,3 @@
-// config/db.js
 import mysql from 'mysql2/promise';
 import dotenv from 'dotenv';
 dotenv.config(); // 또는 애플리케이션 진입점(server.js)에서 호출해도 됩니다.
